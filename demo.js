@@ -22,7 +22,7 @@ app.get("/", function(req, res) {
 // app.get("/api", function(req, res) {
 //   res.send("index.html");
 // });
-// app.listen(3000, function(){
-//   console.log("Server is running at port 3000...");
-// });
+app.listen(3000, function(){
+  console.log("Server is running at port 3000...");
+});
 // app.listen(3000, function() => console.log(`Example app listening on port ${3000}!`))
