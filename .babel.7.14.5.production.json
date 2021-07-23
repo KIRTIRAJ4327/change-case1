@@ -1,0 +1,1756 @@
+{
+  "{\"assumptions\":{},\"sourceRoot\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\\\\\",\"caller\":{\"name\":\"@babel/node\"},\"configFile\":false,\"cwd\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\",\"filename\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\\\\index.js\",\"targets\":{},\"cloneInputAst\":true,\"babelrc\":false,\"browserslistConfigFile\":false,\"passPerPreset\":false,\"envName\":\"production\",\"root\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\",\"rootMode\":\"root\",\"plugins\":[{\"key\":\"syntax-class-properties\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-numeric-separator\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-logical-assignment-operators\",\"visitor\":{\"_exploded\":{},\"_verified\":{},\"AssignmentExpression\":{\"enter\":[null]}},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-nullish-coalescing-operator\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-optional-chaining\",\"visitor\":{\"_exploded\":true,\"OptionalCallExpression\":{\"enter\":[null]},\"OptionalMemberExpression\":{\"enter\":[null]},\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-json-strings\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-optional-catch-binding\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-async-generators\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-object-rest-spread\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"transform-modules-commonjs\",\"visitor\":{\"CallExpression\":{\"enter\":[null]},\"Program\":{\"exit\":[null]},\"_exploded\":true,\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-dynamic-import\",\"visitor\":{\"_exploded\":{},\"_verified\":{},\"Program\":{\"enter\":[null]}},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-export-namespace-from\",\"visitor\":{\"_exploded\":{},\"_verified\":{},\"ExportNamedDeclaration\":{\"enter\":[null]}},\"options\":{\"spec\":false,\"useBuiltIns\":false}}],\"presets\":[]}:7.14.5:production": {
+    "metadata": {},
+    "options": {
+      "assumptions": {},
+      "sourceRoot": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\",
+      "caller": {
+        "name": "@babel/node"
+      },
+      "configFile": false,
+      "cwd": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master",
+      "filename": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\index.js",
+      "targets": {},
+      "cloneInputAst": true,
+      "babelrc": false,
+      "browserslistConfigFile": false,
+      "envName": "production",
+      "root": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master",
+      "rootMode": "root",
+      "sourceMaps": "both",
+      "ast": false,
+      "passPerPreset": false,
+      "plugins": [
+        {
+          "key": "syntax-class-properties",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-numeric-separator",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-logical-assignment-operators",
+          "visitor": {
+            "_exploded": {},
+            "_verified": {},
+            "AssignmentExpression": {
+              "enter": [
+                null
+              ]
+            }
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-nullish-coalescing-operator",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-optional-chaining",
+          "visitor": {
+            "_exploded": true,
+            "OptionalCallExpression": {
+              "enter": [
+                null
+              ]
+            },
+            "OptionalMemberExpression": {
+              "enter": [
+                null
+              ]
+            },
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-json-strings",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-optional-catch-binding",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-async-generators",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-object-rest-spread",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "transform-modules-commonjs",
+          "visitor": {
+            "CallExpression": {
+              "enter": [
+                null
+              ]
+            },
+            "Program": {
+              "exit": [
+                null
+              ]
+            },
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-dynamic-import",
+          "visitor": {
+            "_exploded": {},
+            "_verified": {},
+            "Program": {
+              "enter": [
+                null
+              ]
+            }
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-export-namespace-from",
+          "visitor": {
+            "_exploded": {},
+            "_verified": {},
+            "ExportNamedDeclaration": {
+              "enter": [
+                null
+              ]
+            }
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        }
+      ],
+      "presets": [],
+      "parserOpts": {
+        "sourceType": "module",
+        "sourceFileName": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\index.js",
+        "plugins": [
+          "classProperties",
+          "classPrivateProperties",
+          "classPrivateMethods",
+          "numericSeparator",
+          "logicalAssignment",
+          "nullishCoalescingOperator",
+          "jsonStrings",
+          "optionalCatchBinding",
+          "asyncGenerators",
+          "objectRestSpread",
+          "dynamicImport",
+          "exportNamespaceFrom"
+        ]
+      },
+      "generatorOpts": {
+        "filename": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\index.js",
+        "comments": true,
+        "compact": "auto",
+        "sourceMaps": "both",
+        "sourceRoot": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\",
+        "sourceFileName": "index.js"
+      }
+    },
+    "ast": null,
+    "code": "\"use strict\";\n\nvar arr = require('./data/data.json');\n\nvar quote = {};\n\nfunction randomInt(min, max) {\n  return Math.floor(Math.random() * (max - min + 1) + min);\n}\n\nmodule.exports.getRandomQuote = function () {\n  var index = randomInt(0, 324);\n  return arr[index].text;\n};\n\nmodule.exports.getQuote = function (name) {\n  var index = randomInt(0, 324);\n  quote.text = arr[index].text;\n  quote.author = arr[index].from;\n  return quote;\n};\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImluZGV4LmpzIl0sIm5hbWVzIjpbImFyciIsInJlcXVpcmUiLCJxdW90ZSIsInJhbmRvbUludCIsIm1pbiIsIm1heCIsIk1hdGgiLCJmbG9vciIsInJhbmRvbSIsIm1vZHVsZSIsImV4cG9ydHMiLCJnZXRSYW5kb21RdW90ZSIsImluZGV4IiwidGV4dCIsImdldFF1b3RlIiwibmFtZSIsImF1dGhvciIsImZyb20iXSwibWFwcGluZ3MiOiI7O0FBQUEsSUFBSUEsR0FBRyxHQUFHQyxPQUFPLENBQUMsa0JBQUQsQ0FBakI7O0FBRUEsSUFBSUMsS0FBSyxHQUFDLEVBQVY7O0FBRUEsU0FBU0MsU0FBVCxDQUFtQkMsR0FBbkIsRUFBdUJDLEdBQXZCLEVBQ0E7QUFDSSxTQUFPQyxJQUFJLENBQUNDLEtBQUwsQ0FBV0QsSUFBSSxDQUFDRSxNQUFMLE1BQWVILEdBQUcsR0FBQ0QsR0FBSixHQUFRLENBQXZCLElBQTBCQSxHQUFyQyxDQUFQO0FBQ0g7O0FBRURLLE1BQU0sQ0FBQ0MsT0FBUCxDQUFlQyxjQUFmLEdBQWdDLFlBQVk7QUFDeEMsTUFBSUMsS0FBSyxHQUFHVCxTQUFTLENBQUMsQ0FBRCxFQUFHLEdBQUgsQ0FBckI7QUFDQSxTQUFPSCxHQUFHLENBQUNZLEtBQUQsQ0FBSCxDQUFXQyxJQUFsQjtBQUNILENBSEQ7O0FBS0FKLE1BQU0sQ0FBQ0MsT0FBUCxDQUFlSSxRQUFmLEdBQTBCLFVBQVVDLElBQVYsRUFBZ0I7QUFDdEMsTUFBSUgsS0FBSyxHQUFHVCxTQUFTLENBQUMsQ0FBRCxFQUFHLEdBQUgsQ0FBckI7QUFDQUQsRUFBQUEsS0FBSyxDQUFDVyxJQUFOLEdBQVdiLEdBQUcsQ0FBQ1ksS0FBRCxDQUFILENBQVdDLElBQXRCO0FBQ0FYLEVBQUFBLEtBQUssQ0FBQ2MsTUFBTixHQUFhaEIsR0FBRyxDQUFDWSxLQUFELENBQUgsQ0FBV0ssSUFBeEI7QUFDQSxTQUFPZixLQUFQO0FBQ0gsQ0FMRCIsInNvdXJjZVJvb3QiOiJDOlxcVXNlcnNcXGtpcnRpcmFqc2luaFxcRG93bmxvYWRzXFxpbnNwaXJhdGlvbmFsLXF1b3Rlcy1tYXN0ZXJcXGluc3BpcmF0aW9uYWwtcXVvdGVzLW1hc3RlclxcIiwic291cmNlc0NvbnRlbnQiOlsidmFyIGFyciA9IHJlcXVpcmUoJy4vZGF0YS9kYXRhLmpzb24nKTtcblxudmFyIHF1b3RlPXt9O1xuXG5mdW5jdGlvbiByYW5kb21JbnQobWluLG1heClcbntcbiAgICByZXR1cm4gTWF0aC5mbG9vcihNYXRoLnJhbmRvbSgpKihtYXgtbWluKzEpK21pbik7XG59XG5cbm1vZHVsZS5leHBvcnRzLmdldFJhbmRvbVF1b3RlID0gZnVuY3Rpb24gKCkgeyBcbiAgICB2YXIgaW5kZXggPSByYW5kb21JbnQoMCwzMjQpO1xuICAgIHJldHVybiBhcnJbaW5kZXhdLnRleHQ7XG59O1xuXG5tb2R1bGUuZXhwb3J0cy5nZXRRdW90ZSA9IGZ1bmN0aW9uIChuYW1lKSB7IFxuICAgIHZhciBpbmRleCA9IHJhbmRvbUludCgwLDMyNCk7XG4gICAgcXVvdGUudGV4dD1hcnJbaW5kZXhdLnRleHQ7XG4gICAgcXVvdGUuYXV0aG9yPWFycltpbmRleF0uZnJvbTtcbiAgICByZXR1cm4gcXVvdGU7XG59OyJdfQ==",
+    "map": {
+      "version": 3,
+      "sources": [
+        "index.js"
+      ],
+      "names": [
+        "arr",
+        "require",
+        "quote",
+        "randomInt",
+        "min",
+        "max",
+        "Math",
+        "floor",
+        "random",
+        "module",
+        "exports",
+        "getRandomQuote",
+        "index",
+        "text",
+        "getQuote",
+        "name",
+        "author",
+        "from"
+      ],
+      "mappings": ";;AAAA,IAAIA,GAAG,GAAGC,OAAO,CAAC,kBAAD,CAAjB;;AAEA,IAAIC,KAAK,GAAC,EAAV;;AAEA,SAASC,SAAT,CAAmBC,GAAnB,EAAuBC,GAAvB,EACA;AACI,SAAOC,IAAI,CAACC,KAAL,CAAWD,IAAI,CAACE,MAAL,MAAeH,GAAG,GAACD,GAAJ,GAAQ,CAAvB,IAA0BA,GAArC,CAAP;AACH;;AAEDK,MAAM,CAACC,OAAP,CAAeC,cAAf,GAAgC,YAAY;AACxC,MAAIC,KAAK,GAAGT,SAAS,CAAC,CAAD,EAAG,GAAH,CAArB;AACA,SAAOH,GAAG,CAACY,KAAD,CAAH,CAAWC,IAAlB;AACH,CAHD;;AAKAJ,MAAM,CAACC,OAAP,CAAeI,QAAf,GAA0B,UAAUC,IAAV,EAAgB;AACtC,MAAIH,KAAK,GAAGT,SAAS,CAAC,CAAD,EAAG,GAAH,CAArB;AACAD,EAAAA,KAAK,CAACW,IAAN,GAAWb,GAAG,CAACY,KAAD,CAAH,CAAWC,IAAtB;AACAX,EAAAA,KAAK,CAACc,MAAN,GAAahB,GAAG,CAACY,KAAD,CAAH,CAAWK,IAAxB;AACA,SAAOf,KAAP;AACH,CALD",
+      "sourceRoot": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\",
+      "sourcesContent": [
+        "var arr = require('./data/data.json');\n\nvar quote={};\n\nfunction randomInt(min,max)\n{\n    return Math.floor(Math.random()*(max-min+1)+min);\n}\n\nmodule.exports.getRandomQuote = function () { \n    var index = randomInt(0,324);\n    return arr[index].text;\n};\n\nmodule.exports.getQuote = function (name) { \n    var index = randomInt(0,324);\n    quote.text=arr[index].text;\n    quote.author=arr[index].from;\n    return quote;\n};"
+      ]
+    },
+    "sourceType": "script",
+    "mtime": 1626375757056
+  },
+  "{\"assumptions\":{},\"sourceRoot\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\\\\examples\\\\\",\"caller\":{\"name\":\"@babel/node\"},\"configFile\":false,\"cwd\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\",\"filename\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\\\\examples\\\\demo.js\",\"targets\":{},\"cloneInputAst\":true,\"babelrc\":false,\"browserslistConfigFile\":false,\"passPerPreset\":false,\"envName\":\"production\",\"root\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\",\"rootMode\":\"root\",\"plugins\":[{\"key\":\"syntax-class-properties\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-numeric-separator\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-logical-assignment-operators\",\"visitor\":{\"_exploded\":{},\"_verified\":{},\"AssignmentExpression\":{\"enter\":[null]}},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-nullish-coalescing-operator\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-optional-chaining\",\"visitor\":{\"_exploded\":true,\"OptionalCallExpression\":{\"enter\":[null]},\"OptionalMemberExpression\":{\"enter\":[null]},\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-json-strings\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-optional-catch-binding\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-async-generators\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-object-rest-spread\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"transform-modules-commonjs\",\"visitor\":{\"CallExpression\":{\"enter\":[null]},\"Program\":{\"exit\":[null]},\"_exploded\":true,\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-dynamic-import\",\"visitor\":{\"_exploded\":{},\"_verified\":{},\"Program\":{\"enter\":[null]}},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-export-namespace-from\",\"visitor\":{\"_exploded\":{},\"_verified\":{},\"ExportNamedDeclaration\":{\"enter\":[null]}},\"options\":{\"spec\":false,\"useBuiltIns\":false}}],\"presets\":[]}:7.14.5:production": {
+    "metadata": {},
+    "options": {
+      "assumptions": {},
+      "sourceRoot": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\examples\\",
+      "caller": {
+        "name": "@babel/node"
+      },
+      "configFile": false,
+      "cwd": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master",
+      "filename": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\examples\\demo.js",
+      "targets": {},
+      "cloneInputAst": true,
+      "babelrc": false,
+      "browserslistConfigFile": false,
+      "envName": "production",
+      "root": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master",
+      "rootMode": "root",
+      "sourceMaps": "both",
+      "ast": false,
+      "passPerPreset": false,
+      "plugins": [
+        {
+          "key": "syntax-class-properties",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-numeric-separator",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-logical-assignment-operators",
+          "visitor": {
+            "_exploded": {},
+            "_verified": {},
+            "AssignmentExpression": {
+              "enter": [
+                null
+              ]
+            }
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-nullish-coalescing-operator",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-optional-chaining",
+          "visitor": {
+            "_exploded": true,
+            "OptionalCallExpression": {
+              "enter": [
+                null
+              ]
+            },
+            "OptionalMemberExpression": {
+              "enter": [
+                null
+              ]
+            },
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-json-strings",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-optional-catch-binding",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-async-generators",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-object-rest-spread",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "transform-modules-commonjs",
+          "visitor": {
+            "CallExpression": {
+              "enter": [
+                null
+              ]
+            },
+            "Program": {
+              "exit": [
+                null
+              ]
+            },
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-dynamic-import",
+          "visitor": {
+            "_exploded": {},
+            "_verified": {},
+            "Program": {
+              "enter": [
+                null
+              ]
+            }
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-export-namespace-from",
+          "visitor": {
+            "_exploded": {},
+            "_verified": {},
+            "ExportNamedDeclaration": {
+              "enter": [
+                null
+              ]
+            }
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        }
+      ],
+      "presets": [],
+      "parserOpts": {
+        "sourceType": "module",
+        "sourceFileName": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\examples\\demo.js",
+        "plugins": [
+          "classProperties",
+          "classPrivateProperties",
+          "classPrivateMethods",
+          "numericSeparator",
+          "logicalAssignment",
+          "nullishCoalescingOperator",
+          "jsonStrings",
+          "optionalCatchBinding",
+          "asyncGenerators",
+          "objectRestSpread",
+          "dynamicImport",
+          "exportNamespaceFrom"
+        ]
+      },
+      "generatorOpts": {
+        "filename": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\examples\\demo.js",
+        "comments": true,
+        "compact": "auto",
+        "sourceMaps": "both",
+        "sourceRoot": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\examples\\",
+        "sourceFileName": "demo.js"
+      }
+    },
+    "ast": null,
+    "code": "\"use strict\";\n\nconst quote = require('inspirational-quotes');\n\nconsole.log(quote.getQuote());\nconsole.log(quote.getRandomQuote());\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImRlbW8uanMiXSwibmFtZXMiOlsicXVvdGUiLCJyZXF1aXJlIiwiY29uc29sZSIsImxvZyIsImdldFF1b3RlIiwiZ2V0UmFuZG9tUXVvdGUiXSwibWFwcGluZ3MiOiI7O0FBQUEsTUFBTUEsS0FBSyxHQUFHQyxPQUFPLENBQUMsc0JBQUQsQ0FBckI7O0FBRUFDLE9BQU8sQ0FBQ0MsR0FBUixDQUFZSCxLQUFLLENBQUNJLFFBQU4sRUFBWjtBQUVBRixPQUFPLENBQUNDLEdBQVIsQ0FBWUgsS0FBSyxDQUFDSyxjQUFOLEVBQVoiLCJzb3VyY2VSb290IjoiQzpcXFVzZXJzXFxraXJ0aXJhanNpbmhcXERvd25sb2Fkc1xcaW5zcGlyYXRpb25hbC1xdW90ZXMtbWFzdGVyXFxpbnNwaXJhdGlvbmFsLXF1b3Rlcy1tYXN0ZXJcXGV4YW1wbGVzXFwiLCJzb3VyY2VzQ29udGVudCI6WyJjb25zdCBxdW90ZSA9IHJlcXVpcmUoJ2luc3BpcmF0aW9uYWwtcXVvdGVzJyk7XG5cbmNvbnNvbGUubG9nKHF1b3RlLmdldFF1b3RlKCkpO1xuXG5jb25zb2xlLmxvZyhxdW90ZS5nZXRSYW5kb21RdW90ZSgpKTsiXX0=",
+    "map": {
+      "version": 3,
+      "sources": [
+        "demo.js"
+      ],
+      "names": [
+        "quote",
+        "require",
+        "console",
+        "log",
+        "getQuote",
+        "getRandomQuote"
+      ],
+      "mappings": ";;AAAA,MAAMA,KAAK,GAAGC,OAAO,CAAC,sBAAD,CAArB;;AAEAC,OAAO,CAACC,GAAR,CAAYH,KAAK,CAACI,QAAN,EAAZ;AAEAF,OAAO,CAACC,GAAR,CAAYH,KAAK,CAACK,cAAN,EAAZ",
+      "sourceRoot": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\examples\\",
+      "sourcesContent": [
+        "const quote = require('inspirational-quotes');\n\nconsole.log(quote.getQuote());\n\nconsole.log(quote.getRandomQuote());"
+      ]
+    },
+    "sourceType": "script",
+    "mtime": 1626375757334
+  },
+  "{\"assumptions\":{},\"sourceRoot\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\\\\examples\\\\node_modules\\\\inspirational-quotes\\\\\",\"caller\":{\"name\":\"@babel/node\"},\"configFile\":false,\"cwd\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\",\"filename\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\\\\examples\\\\node_modules\\\\inspirational-quotes\\\\index.js\",\"targets\":{},\"cloneInputAst\":true,\"babelrc\":false,\"browserslistConfigFile\":false,\"passPerPreset\":false,\"envName\":\"production\",\"root\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\",\"rootMode\":\"root\",\"plugins\":[{\"key\":\"syntax-class-properties\",\"visitor\":{\"_exploded\":true,\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-numeric-separator\",\"visitor\":{\"_exploded\":true,\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-logical-assignment-operators\",\"visitor\":{\"_exploded\":{},\"_verified\":{},\"AssignmentExpression\":{\"enter\":[null]}},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-nullish-coalescing-operator\",\"visitor\":{\"_exploded\":true,\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-optional-chaining\",\"visitor\":{\"_exploded\":true,\"OptionalCallExpression\":{\"enter\":[null]},\"OptionalMemberExpression\":{\"enter\":[null]},\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-json-strings\",\"visitor\":{\"_exploded\":true,\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-optional-catch-binding\",\"visitor\":{\"_exploded\":true,\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-async-generators\",\"visitor\":{\"_exploded\":true,\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-object-rest-spread\",\"visitor\":{\"_exploded\":true,\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"transform-modules-commonjs\",\"visitor\":{\"CallExpression\":{\"enter\":[null]},\"Program\":{\"exit\":[null]},\"_exploded\":true,\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-dynamic-import\",\"visitor\":{\"_exploded\":{},\"_verified\":{},\"Program\":{\"enter\":[null]}},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-export-namespace-from\",\"visitor\":{\"_exploded\":{},\"_verified\":{},\"ExportNamedDeclaration\":{\"enter\":[null]}},\"options\":{\"spec\":false,\"useBuiltIns\":false}}],\"presets\":[]}:7.14.5:production": {
+    "metadata": {},
+    "options": {
+      "assumptions": {},
+      "sourceRoot": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\examples\\node_modules\\inspirational-quotes\\",
+      "caller": {
+        "name": "@babel/node"
+      },
+      "configFile": false,
+      "cwd": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master",
+      "filename": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\examples\\node_modules\\inspirational-quotes\\index.js",
+      "targets": {},
+      "cloneInputAst": true,
+      "babelrc": false,
+      "browserslistConfigFile": false,
+      "envName": "production",
+      "root": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master",
+      "rootMode": "root",
+      "sourceMaps": "both",
+      "ast": false,
+      "passPerPreset": false,
+      "plugins": [
+        {
+          "key": "syntax-class-properties",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-numeric-separator",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-logical-assignment-operators",
+          "visitor": {
+            "_exploded": {},
+            "_verified": {},
+            "AssignmentExpression": {
+              "enter": [
+                null
+              ]
+            }
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-nullish-coalescing-operator",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-optional-chaining",
+          "visitor": {
+            "_exploded": true,
+            "OptionalCallExpression": {
+              "enter": [
+                null
+              ]
+            },
+            "OptionalMemberExpression": {
+              "enter": [
+                null
+              ]
+            },
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-json-strings",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-optional-catch-binding",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-async-generators",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-object-rest-spread",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "transform-modules-commonjs",
+          "visitor": {
+            "CallExpression": {
+              "enter": [
+                null
+              ]
+            },
+            "Program": {
+              "exit": [
+                null
+              ]
+            },
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-dynamic-import",
+          "visitor": {
+            "_exploded": {},
+            "_verified": {},
+            "Program": {
+              "enter": [
+                null
+              ]
+            }
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-export-namespace-from",
+          "visitor": {
+            "_exploded": {},
+            "_verified": {},
+            "ExportNamedDeclaration": {
+              "enter": [
+                null
+              ]
+            }
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        }
+      ],
+      "presets": [],
+      "parserOpts": {
+        "sourceType": "module",
+        "sourceFileName": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\examples\\node_modules\\inspirational-quotes\\index.js",
+        "plugins": [
+          "classProperties",
+          "classPrivateProperties",
+          "classPrivateMethods",
+          "numericSeparator",
+          "logicalAssignment",
+          "nullishCoalescingOperator",
+          "jsonStrings",
+          "optionalCatchBinding",
+          "asyncGenerators",
+          "objectRestSpread",
+          "dynamicImport",
+          "exportNamespaceFrom"
+        ]
+      },
+      "generatorOpts": {
+        "filename": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\examples\\node_modules\\inspirational-quotes\\index.js",
+        "comments": true,
+        "compact": "auto",
+        "sourceMaps": "both",
+        "sourceRoot": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\examples\\node_modules\\inspirational-quotes\\",
+        "sourceFileName": "index.js"
+      }
+    },
+    "ast": null,
+    "code": "\"use strict\";\n\nvar arr = require('./data/data.json');\n\nvar quote = {};\n\nfunction randomInt(min, max) {\n  return Math.floor(Math.random() * (max - min + 1) + min);\n}\n\nmodule.exports.getRandomQuote = function () {\n  var index = randomInt(0, 324);\n  return arr[index].text;\n};\n\nmodule.exports.getQuote = function (name) {\n  var index = randomInt(0, 324);\n  quote.text = arr[index].text;\n  quote.author = arr[index].from;\n  return quote;\n};\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImluZGV4LmpzIl0sIm5hbWVzIjpbImFyciIsInJlcXVpcmUiLCJxdW90ZSIsInJhbmRvbUludCIsIm1pbiIsIm1heCIsIk1hdGgiLCJmbG9vciIsInJhbmRvbSIsIm1vZHVsZSIsImV4cG9ydHMiLCJnZXRSYW5kb21RdW90ZSIsImluZGV4IiwidGV4dCIsImdldFF1b3RlIiwibmFtZSIsImF1dGhvciIsImZyb20iXSwibWFwcGluZ3MiOiI7O0FBQUEsSUFBSUEsR0FBRyxHQUFHQyxPQUFPLENBQUMsa0JBQUQsQ0FBakI7O0FBRUEsSUFBSUMsS0FBSyxHQUFDLEVBQVY7O0FBRUEsU0FBU0MsU0FBVCxDQUFtQkMsR0FBbkIsRUFBdUJDLEdBQXZCLEVBQ0E7QUFDSSxTQUFPQyxJQUFJLENBQUNDLEtBQUwsQ0FBV0QsSUFBSSxDQUFDRSxNQUFMLE1BQWVILEdBQUcsR0FBQ0QsR0FBSixHQUFRLENBQXZCLElBQTBCQSxHQUFyQyxDQUFQO0FBQ0g7O0FBRURLLE1BQU0sQ0FBQ0MsT0FBUCxDQUFlQyxjQUFmLEdBQWdDLFlBQVk7QUFDeEMsTUFBSUMsS0FBSyxHQUFHVCxTQUFTLENBQUMsQ0FBRCxFQUFHLEdBQUgsQ0FBckI7QUFDQSxTQUFPSCxHQUFHLENBQUNZLEtBQUQsQ0FBSCxDQUFXQyxJQUFsQjtBQUNILENBSEQ7O0FBS0FKLE1BQU0sQ0FBQ0MsT0FBUCxDQUFlSSxRQUFmLEdBQTBCLFVBQVVDLElBQVYsRUFBZ0I7QUFDdEMsTUFBSUgsS0FBSyxHQUFHVCxTQUFTLENBQUMsQ0FBRCxFQUFHLEdBQUgsQ0FBckI7QUFDQUQsRUFBQUEsS0FBSyxDQUFDVyxJQUFOLEdBQVdiLEdBQUcsQ0FBQ1ksS0FBRCxDQUFILENBQVdDLElBQXRCO0FBQ0FYLEVBQUFBLEtBQUssQ0FBQ2MsTUFBTixHQUFhaEIsR0FBRyxDQUFDWSxLQUFELENBQUgsQ0FBV0ssSUFBeEI7QUFDQSxTQUFPZixLQUFQO0FBQ0gsQ0FMRCIsInNvdXJjZVJvb3QiOiJDOlxcVXNlcnNcXGtpcnRpcmFqc2luaFxcRG93bmxvYWRzXFxpbnNwaXJhdGlvbmFsLXF1b3Rlcy1tYXN0ZXJcXGluc3BpcmF0aW9uYWwtcXVvdGVzLW1hc3RlclxcZXhhbXBsZXNcXG5vZGVfbW9kdWxlc1xcaW5zcGlyYXRpb25hbC1xdW90ZXNcXCIsInNvdXJjZXNDb250ZW50IjpbInZhciBhcnIgPSByZXF1aXJlKCcuL2RhdGEvZGF0YS5qc29uJyk7XHJcblxyXG52YXIgcXVvdGU9e307XHJcblxyXG5mdW5jdGlvbiByYW5kb21JbnQobWluLG1heClcclxue1xyXG4gICAgcmV0dXJuIE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSoobWF4LW1pbisxKSttaW4pO1xyXG59XHJcblxyXG5tb2R1bGUuZXhwb3J0cy5nZXRSYW5kb21RdW90ZSA9IGZ1bmN0aW9uICgpIHsgXHJcbiAgICB2YXIgaW5kZXggPSByYW5kb21JbnQoMCwzMjQpO1xyXG4gICAgcmV0dXJuIGFycltpbmRleF0udGV4dDtcclxufTtcclxuXHJcbm1vZHVsZS5leHBvcnRzLmdldFF1b3RlID0gZnVuY3Rpb24gKG5hbWUpIHsgXHJcbiAgICB2YXIgaW5kZXggPSByYW5kb21JbnQoMCwzMjQpO1xyXG4gICAgcXVvdGUudGV4dD1hcnJbaW5kZXhdLnRleHQ7XHJcbiAgICBxdW90ZS5hdXRob3I9YXJyW2luZGV4XS5mcm9tO1xyXG4gICAgcmV0dXJuIHF1b3RlO1xyXG59OyJdfQ==",
+    "map": {
+      "version": 3,
+      "sources": [
+        "index.js"
+      ],
+      "names": [
+        "arr",
+        "require",
+        "quote",
+        "randomInt",
+        "min",
+        "max",
+        "Math",
+        "floor",
+        "random",
+        "module",
+        "exports",
+        "getRandomQuote",
+        "index",
+        "text",
+        "getQuote",
+        "name",
+        "author",
+        "from"
+      ],
+      "mappings": ";;AAAA,IAAIA,GAAG,GAAGC,OAAO,CAAC,kBAAD,CAAjB;;AAEA,IAAIC,KAAK,GAAC,EAAV;;AAEA,SAASC,SAAT,CAAmBC,GAAnB,EAAuBC,GAAvB,EACA;AACI,SAAOC,IAAI,CAACC,KAAL,CAAWD,IAAI,CAACE,MAAL,MAAeH,GAAG,GAACD,GAAJ,GAAQ,CAAvB,IAA0BA,GAArC,CAAP;AACH;;AAEDK,MAAM,CAACC,OAAP,CAAeC,cAAf,GAAgC,YAAY;AACxC,MAAIC,KAAK,GAAGT,SAAS,CAAC,CAAD,EAAG,GAAH,CAArB;AACA,SAAOH,GAAG,CAACY,KAAD,CAAH,CAAWC,IAAlB;AACH,CAHD;;AAKAJ,MAAM,CAACC,OAAP,CAAeI,QAAf,GAA0B,UAAUC,IAAV,EAAgB;AACtC,MAAIH,KAAK,GAAGT,SAAS,CAAC,CAAD,EAAG,GAAH,CAArB;AACAD,EAAAA,KAAK,CAACW,IAAN,GAAWb,GAAG,CAACY,KAAD,CAAH,CAAWC,IAAtB;AACAX,EAAAA,KAAK,CAACc,MAAN,GAAahB,GAAG,CAACY,KAAD,CAAH,CAAWK,IAAxB;AACA,SAAOf,KAAP;AACH,CALD",
+      "sourceRoot": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\examples\\node_modules\\inspirational-quotes\\",
+      "sourcesContent": [
+        "var arr = require('./data/data.json');\r\n\r\nvar quote={};\r\n\r\nfunction randomInt(min,max)\r\n{\r\n    return Math.floor(Math.random()*(max-min+1)+min);\r\n}\r\n\r\nmodule.exports.getRandomQuote = function () { \r\n    var index = randomInt(0,324);\r\n    return arr[index].text;\r\n};\r\n\r\nmodule.exports.getQuote = function (name) { \r\n    var index = randomInt(0,324);\r\n    quote.text=arr[index].text;\r\n    quote.author=arr[index].from;\r\n    return quote;\r\n};"
+      ]
+    },
+    "sourceType": "script",
+    "mtime": 1542885010000
+  },
+  "{\"assumptions\":{},\"sourceRoot\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\\\\examples\\\\node_modules\\\\inspirational-quotes\\\\\",\"caller\":{\"name\":\"@babel/node\"},\"configFile\":false,\"cwd\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\",\"filename\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\\\\examples\\\\node_modules\\\\inspirational-quotes\\\\index.js\",\"targets\":{},\"cloneInputAst\":true,\"babelrc\":false,\"browserslistConfigFile\":false,\"passPerPreset\":false,\"envName\":\"production\",\"root\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\",\"rootMode\":\"root\",\"plugins\":[{\"key\":\"syntax-class-properties\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-numeric-separator\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-logical-assignment-operators\",\"visitor\":{\"_exploded\":{},\"_verified\":{},\"AssignmentExpression\":{\"enter\":[null]}},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-nullish-coalescing-operator\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-optional-chaining\",\"visitor\":{\"_exploded\":true,\"OptionalCallExpression\":{\"enter\":[null]},\"OptionalMemberExpression\":{\"enter\":[null]},\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-json-strings\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-optional-catch-binding\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-async-generators\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-object-rest-spread\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"transform-modules-commonjs\",\"visitor\":{\"CallExpression\":{\"enter\":[null]},\"Program\":{\"exit\":[null]},\"_exploded\":true,\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-dynamic-import\",\"visitor\":{\"_exploded\":{},\"_verified\":{},\"Program\":{\"enter\":[null]}},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-export-namespace-from\",\"visitor\":{\"_exploded\":{},\"_verified\":{},\"ExportNamedDeclaration\":{\"enter\":[null]}},\"options\":{\"spec\":false,\"useBuiltIns\":false}}],\"presets\":[]}:7.14.5:production": {
+    "metadata": {},
+    "options": {
+      "assumptions": {},
+      "sourceRoot": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\examples\\node_modules\\inspirational-quotes\\",
+      "caller": {
+        "name": "@babel/node"
+      },
+      "configFile": false,
+      "cwd": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master",
+      "filename": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\examples\\node_modules\\inspirational-quotes\\index.js",
+      "targets": {},
+      "cloneInputAst": true,
+      "babelrc": false,
+      "browserslistConfigFile": false,
+      "envName": "production",
+      "root": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master",
+      "rootMode": "root",
+      "sourceMaps": "both",
+      "ast": false,
+      "passPerPreset": false,
+      "plugins": [
+        {
+          "key": "syntax-class-properties",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-numeric-separator",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-logical-assignment-operators",
+          "visitor": {
+            "_exploded": {},
+            "_verified": {},
+            "AssignmentExpression": {
+              "enter": [
+                null
+              ]
+            }
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-nullish-coalescing-operator",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-optional-chaining",
+          "visitor": {
+            "_exploded": true,
+            "OptionalCallExpression": {
+              "enter": [
+                null
+              ]
+            },
+            "OptionalMemberExpression": {
+              "enter": [
+                null
+              ]
+            },
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-json-strings",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-optional-catch-binding",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-async-generators",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-object-rest-spread",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "transform-modules-commonjs",
+          "visitor": {
+            "CallExpression": {
+              "enter": [
+                null
+              ]
+            },
+            "Program": {
+              "exit": [
+                null
+              ]
+            },
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-dynamic-import",
+          "visitor": {
+            "_exploded": {},
+            "_verified": {},
+            "Program": {
+              "enter": [
+                null
+              ]
+            }
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-export-namespace-from",
+          "visitor": {
+            "_exploded": {},
+            "_verified": {},
+            "ExportNamedDeclaration": {
+              "enter": [
+                null
+              ]
+            }
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        }
+      ],
+      "presets": [],
+      "parserOpts": {
+        "sourceType": "module",
+        "sourceFileName": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\examples\\node_modules\\inspirational-quotes\\index.js",
+        "plugins": [
+          "classProperties",
+          "classPrivateProperties",
+          "classPrivateMethods",
+          "numericSeparator",
+          "logicalAssignment",
+          "nullishCoalescingOperator",
+          "jsonStrings",
+          "optionalCatchBinding",
+          "asyncGenerators",
+          "objectRestSpread",
+          "dynamicImport",
+          "exportNamespaceFrom"
+        ]
+      },
+      "generatorOpts": {
+        "filename": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\examples\\node_modules\\inspirational-quotes\\index.js",
+        "comments": true,
+        "compact": "auto",
+        "sourceMaps": "both",
+        "sourceRoot": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\examples\\node_modules\\inspirational-quotes\\",
+        "sourceFileName": "index.js"
+      }
+    },
+    "ast": null,
+    "code": "\"use strict\";\n\nvar arr = require('./data/data.json');\n\nvar quote = {};\n\nfunction randomInt(min, max) {\n  return Math.floor(Math.random() * (max - min + 1) + min);\n}\n\nmodule.exports.getRandomQuote = function () {\n  var index = randomInt(0, 324);\n  return arr[index].text;\n};\n\nmodule.exports.getQuote = function (name) {\n  var index = randomInt(0, 324);\n  quote.text = arr[index].text;\n  quote.author = arr[index].from;\n  return quote;\n};\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImluZGV4LmpzIl0sIm5hbWVzIjpbImFyciIsInJlcXVpcmUiLCJxdW90ZSIsInJhbmRvbUludCIsIm1pbiIsIm1heCIsIk1hdGgiLCJmbG9vciIsInJhbmRvbSIsIm1vZHVsZSIsImV4cG9ydHMiLCJnZXRSYW5kb21RdW90ZSIsImluZGV4IiwidGV4dCIsImdldFF1b3RlIiwibmFtZSIsImF1dGhvciIsImZyb20iXSwibWFwcGluZ3MiOiI7O0FBQUEsSUFBSUEsR0FBRyxHQUFHQyxPQUFPLENBQUMsa0JBQUQsQ0FBakI7O0FBRUEsSUFBSUMsS0FBSyxHQUFDLEVBQVY7O0FBRUEsU0FBU0MsU0FBVCxDQUFtQkMsR0FBbkIsRUFBdUJDLEdBQXZCLEVBQ0E7QUFDSSxTQUFPQyxJQUFJLENBQUNDLEtBQUwsQ0FBV0QsSUFBSSxDQUFDRSxNQUFMLE1BQWVILEdBQUcsR0FBQ0QsR0FBSixHQUFRLENBQXZCLElBQTBCQSxHQUFyQyxDQUFQO0FBQ0g7O0FBRURLLE1BQU0sQ0FBQ0MsT0FBUCxDQUFlQyxjQUFmLEdBQWdDLFlBQVk7QUFDeEMsTUFBSUMsS0FBSyxHQUFHVCxTQUFTLENBQUMsQ0FBRCxFQUFHLEdBQUgsQ0FBckI7QUFDQSxTQUFPSCxHQUFHLENBQUNZLEtBQUQsQ0FBSCxDQUFXQyxJQUFsQjtBQUNILENBSEQ7O0FBS0FKLE1BQU0sQ0FBQ0MsT0FBUCxDQUFlSSxRQUFmLEdBQTBCLFVBQVVDLElBQVYsRUFBZ0I7QUFDdEMsTUFBSUgsS0FBSyxHQUFHVCxTQUFTLENBQUMsQ0FBRCxFQUFHLEdBQUgsQ0FBckI7QUFDQUQsRUFBQUEsS0FBSyxDQUFDVyxJQUFOLEdBQVdiLEdBQUcsQ0FBQ1ksS0FBRCxDQUFILENBQVdDLElBQXRCO0FBQ0FYLEVBQUFBLEtBQUssQ0FBQ2MsTUFBTixHQUFhaEIsR0FBRyxDQUFDWSxLQUFELENBQUgsQ0FBV0ssSUFBeEI7QUFDQSxTQUFPZixLQUFQO0FBQ0gsQ0FMRCIsInNvdXJjZVJvb3QiOiJDOlxcVXNlcnNcXGtpcnRpcmFqc2luaFxcRG93bmxvYWRzXFxpbnNwaXJhdGlvbmFsLXF1b3Rlcy1tYXN0ZXJcXGluc3BpcmF0aW9uYWwtcXVvdGVzLW1hc3RlclxcZXhhbXBsZXNcXG5vZGVfbW9kdWxlc1xcaW5zcGlyYXRpb25hbC1xdW90ZXNcXCIsInNvdXJjZXNDb250ZW50IjpbInZhciBhcnIgPSByZXF1aXJlKCcuL2RhdGEvZGF0YS5qc29uJyk7XHJcblxyXG52YXIgcXVvdGU9e307XHJcblxyXG5mdW5jdGlvbiByYW5kb21JbnQobWluLG1heClcclxue1xyXG4gICAgcmV0dXJuIE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSoobWF4LW1pbisxKSttaW4pO1xyXG59XHJcblxyXG5tb2R1bGUuZXhwb3J0cy5nZXRSYW5kb21RdW90ZSA9IGZ1bmN0aW9uICgpIHsgXHJcbiAgICB2YXIgaW5kZXggPSByYW5kb21JbnQoMCwzMjQpO1xyXG4gICAgcmV0dXJuIGFycltpbmRleF0udGV4dDtcclxufTtcclxuXHJcbm1vZHVsZS5leHBvcnRzLmdldFF1b3RlID0gZnVuY3Rpb24gKG5hbWUpIHsgXHJcbiAgICB2YXIgaW5kZXggPSByYW5kb21JbnQoMCwzMjQpO1xyXG4gICAgcXVvdGUudGV4dD1hcnJbaW5kZXhdLnRleHQ7XHJcbiAgICBxdW90ZS5hdXRob3I9YXJyW2luZGV4XS5mcm9tO1xyXG4gICAgcmV0dXJuIHF1b3RlO1xyXG59OyJdfQ==",
+    "map": {
+      "version": 3,
+      "sources": [
+        "index.js"
+      ],
+      "names": [
+        "arr",
+        "require",
+        "quote",
+        "randomInt",
+        "min",
+        "max",
+        "Math",
+        "floor",
+        "random",
+        "module",
+        "exports",
+        "getRandomQuote",
+        "index",
+        "text",
+        "getQuote",
+        "name",
+        "author",
+        "from"
+      ],
+      "mappings": ";;AAAA,IAAIA,GAAG,GAAGC,OAAO,CAAC,kBAAD,CAAjB;;AAEA,IAAIC,KAAK,GAAC,EAAV;;AAEA,SAASC,SAAT,CAAmBC,GAAnB,EAAuBC,GAAvB,EACA;AACI,SAAOC,IAAI,CAACC,KAAL,CAAWD,IAAI,CAACE,MAAL,MAAeH,GAAG,GAACD,GAAJ,GAAQ,CAAvB,IAA0BA,GAArC,CAAP;AACH;;AAEDK,MAAM,CAACC,OAAP,CAAeC,cAAf,GAAgC,YAAY;AACxC,MAAIC,KAAK,GAAGT,SAAS,CAAC,CAAD,EAAG,GAAH,CAArB;AACA,SAAOH,GAAG,CAACY,KAAD,CAAH,CAAWC,IAAlB;AACH,CAHD;;AAKAJ,MAAM,CAACC,OAAP,CAAeI,QAAf,GAA0B,UAAUC,IAAV,EAAgB;AACtC,MAAIH,KAAK,GAAGT,SAAS,CAAC,CAAD,EAAG,GAAH,CAArB;AACAD,EAAAA,KAAK,CAACW,IAAN,GAAWb,GAAG,CAACY,KAAD,CAAH,CAAWC,IAAtB;AACAX,EAAAA,KAAK,CAACc,MAAN,GAAahB,GAAG,CAACY,KAAD,CAAH,CAAWK,IAAxB;AACA,SAAOf,KAAP;AACH,CALD",
+      "sourceRoot": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\examples\\node_modules\\inspirational-quotes\\",
+      "sourcesContent": [
+        "var arr = require('./data/data.json');\r\n\r\nvar quote={};\r\n\r\nfunction randomInt(min,max)\r\n{\r\n    return Math.floor(Math.random()*(max-min+1)+min);\r\n}\r\n\r\nmodule.exports.getRandomQuote = function () { \r\n    var index = randomInt(0,324);\r\n    return arr[index].text;\r\n};\r\n\r\nmodule.exports.getQuote = function (name) { \r\n    var index = randomInt(0,324);\r\n    quote.text=arr[index].text;\r\n    quote.author=arr[index].from;\r\n    return quote;\r\n};"
+      ]
+    },
+    "sourceType": "script",
+    "mtime": 1542885010000
+  },
+  "{\"assumptions\":{},\"sourceRoot\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\\\\inspirational-quotes\\\\\",\"caller\":{\"name\":\"@babel/node\"},\"configFile\":false,\"cwd\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\",\"filename\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\\\\inspirational-quotes\\\\index.js\",\"targets\":{},\"cloneInputAst\":true,\"babelrc\":false,\"browserslistConfigFile\":false,\"passPerPreset\":false,\"envName\":\"production\",\"root\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\",\"rootMode\":\"root\",\"plugins\":[{\"key\":\"syntax-class-properties\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-numeric-separator\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-logical-assignment-operators\",\"visitor\":{\"_exploded\":{},\"_verified\":{},\"AssignmentExpression\":{\"enter\":[null]}},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-nullish-coalescing-operator\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-optional-chaining\",\"visitor\":{\"_exploded\":true,\"OptionalCallExpression\":{\"enter\":[null]},\"OptionalMemberExpression\":{\"enter\":[null]},\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-json-strings\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-optional-catch-binding\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-async-generators\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-object-rest-spread\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"transform-modules-commonjs\",\"visitor\":{\"CallExpression\":{\"enter\":[null]},\"Program\":{\"exit\":[null]},\"_exploded\":true,\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-dynamic-import\",\"visitor\":{\"_exploded\":{},\"_verified\":{},\"Program\":{\"enter\":[null]}},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-export-namespace-from\",\"visitor\":{\"_exploded\":{},\"_verified\":{},\"ExportNamedDeclaration\":{\"enter\":[null]}},\"options\":{\"spec\":false,\"useBuiltIns\":false}}],\"presets\":[]}:7.14.5:production": {
+    "metadata": {},
+    "options": {
+      "assumptions": {},
+      "sourceRoot": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\inspirational-quotes\\",
+      "caller": {
+        "name": "@babel/node"
+      },
+      "configFile": false,
+      "cwd": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master",
+      "filename": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\inspirational-quotes\\index.js",
+      "targets": {},
+      "cloneInputAst": true,
+      "babelrc": false,
+      "browserslistConfigFile": false,
+      "envName": "production",
+      "root": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master",
+      "rootMode": "root",
+      "sourceMaps": "both",
+      "ast": false,
+      "passPerPreset": false,
+      "plugins": [
+        {
+          "key": "syntax-class-properties",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-numeric-separator",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-logical-assignment-operators",
+          "visitor": {
+            "_exploded": {},
+            "_verified": {},
+            "AssignmentExpression": {
+              "enter": [
+                null
+              ]
+            }
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-nullish-coalescing-operator",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-optional-chaining",
+          "visitor": {
+            "_exploded": true,
+            "OptionalCallExpression": {
+              "enter": [
+                null
+              ]
+            },
+            "OptionalMemberExpression": {
+              "enter": [
+                null
+              ]
+            },
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-json-strings",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-optional-catch-binding",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-async-generators",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-object-rest-spread",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "transform-modules-commonjs",
+          "visitor": {
+            "CallExpression": {
+              "enter": [
+                null
+              ]
+            },
+            "Program": {
+              "exit": [
+                null
+              ]
+            },
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-dynamic-import",
+          "visitor": {
+            "_exploded": {},
+            "_verified": {},
+            "Program": {
+              "enter": [
+                null
+              ]
+            }
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-export-namespace-from",
+          "visitor": {
+            "_exploded": {},
+            "_verified": {},
+            "ExportNamedDeclaration": {
+              "enter": [
+                null
+              ]
+            }
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        }
+      ],
+      "presets": [],
+      "parserOpts": {
+        "sourceType": "module",
+        "sourceFileName": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\inspirational-quotes\\index.js",
+        "plugins": [
+          "classProperties",
+          "classPrivateProperties",
+          "classPrivateMethods",
+          "numericSeparator",
+          "logicalAssignment",
+          "nullishCoalescingOperator",
+          "jsonStrings",
+          "optionalCatchBinding",
+          "asyncGenerators",
+          "objectRestSpread",
+          "dynamicImport",
+          "exportNamespaceFrom"
+        ]
+      },
+      "generatorOpts": {
+        "filename": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\inspirational-quotes\\index.js",
+        "comments": true,
+        "compact": "auto",
+        "sourceMaps": "both",
+        "sourceRoot": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\inspirational-quotes\\",
+        "sourceFileName": "index.js"
+      }
+    },
+    "ast": null,
+    "code": "\"use strict\";\n\nvar arr = require('./data/data.json');\n\nvar quote = {};\n\nfunction randomInt(min, max) {\n  return Math.floor(Math.random() * (max - min + 1) + min);\n}\n\nmodule.exports.getRandomQuote = function () {\n  var index = randomInt(0, 324);\n  return arr[index].text;\n};\n\nmodule.exports.getQuote = function (name) {\n  var index = randomInt(0, 324);\n  quote.text = arr[index].text;\n  quote.author = arr[index].from;\n  return quote;\n};\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImluZGV4LmpzIl0sIm5hbWVzIjpbImFyciIsInJlcXVpcmUiLCJxdW90ZSIsInJhbmRvbUludCIsIm1pbiIsIm1heCIsIk1hdGgiLCJmbG9vciIsInJhbmRvbSIsIm1vZHVsZSIsImV4cG9ydHMiLCJnZXRSYW5kb21RdW90ZSIsImluZGV4IiwidGV4dCIsImdldFF1b3RlIiwibmFtZSIsImF1dGhvciIsImZyb20iXSwibWFwcGluZ3MiOiI7O0FBQUEsSUFBSUEsR0FBRyxHQUFHQyxPQUFPLENBQUMsa0JBQUQsQ0FBakI7O0FBRUEsSUFBSUMsS0FBSyxHQUFDLEVBQVY7O0FBRUEsU0FBU0MsU0FBVCxDQUFtQkMsR0FBbkIsRUFBdUJDLEdBQXZCLEVBQ0E7QUFDSSxTQUFPQyxJQUFJLENBQUNDLEtBQUwsQ0FBV0QsSUFBSSxDQUFDRSxNQUFMLE1BQWVILEdBQUcsR0FBQ0QsR0FBSixHQUFRLENBQXZCLElBQTBCQSxHQUFyQyxDQUFQO0FBQ0g7O0FBRURLLE1BQU0sQ0FBQ0MsT0FBUCxDQUFlQyxjQUFmLEdBQWdDLFlBQVk7QUFDeEMsTUFBSUMsS0FBSyxHQUFHVCxTQUFTLENBQUMsQ0FBRCxFQUFHLEdBQUgsQ0FBckI7QUFDQSxTQUFPSCxHQUFHLENBQUNZLEtBQUQsQ0FBSCxDQUFXQyxJQUFsQjtBQUNILENBSEQ7O0FBS0FKLE1BQU0sQ0FBQ0MsT0FBUCxDQUFlSSxRQUFmLEdBQTBCLFVBQVVDLElBQVYsRUFBZ0I7QUFDdEMsTUFBSUgsS0FBSyxHQUFHVCxTQUFTLENBQUMsQ0FBRCxFQUFHLEdBQUgsQ0FBckI7QUFDQUQsRUFBQUEsS0FBSyxDQUFDVyxJQUFOLEdBQVdiLEdBQUcsQ0FBQ1ksS0FBRCxDQUFILENBQVdDLElBQXRCO0FBQ0FYLEVBQUFBLEtBQUssQ0FBQ2MsTUFBTixHQUFhaEIsR0FBRyxDQUFDWSxLQUFELENBQUgsQ0FBV0ssSUFBeEI7QUFDQSxTQUFPZixLQUFQO0FBQ0gsQ0FMRCIsInNvdXJjZVJvb3QiOiJDOlxcVXNlcnNcXGtpcnRpcmFqc2luaFxcRG93bmxvYWRzXFxpbnNwaXJhdGlvbmFsLXF1b3Rlcy1tYXN0ZXJcXGluc3BpcmF0aW9uYWwtcXVvdGVzLW1hc3RlclxcaW5zcGlyYXRpb25hbC1xdW90ZXNcXCIsInNvdXJjZXNDb250ZW50IjpbInZhciBhcnIgPSByZXF1aXJlKCcuL2RhdGEvZGF0YS5qc29uJyk7XHJcblxyXG52YXIgcXVvdGU9e307XHJcblxyXG5mdW5jdGlvbiByYW5kb21JbnQobWluLG1heClcclxue1xyXG4gICAgcmV0dXJuIE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSoobWF4LW1pbisxKSttaW4pO1xyXG59XHJcblxyXG5tb2R1bGUuZXhwb3J0cy5nZXRSYW5kb21RdW90ZSA9IGZ1bmN0aW9uICgpIHsgXHJcbiAgICB2YXIgaW5kZXggPSByYW5kb21JbnQoMCwzMjQpO1xyXG4gICAgcmV0dXJuIGFycltpbmRleF0udGV4dDtcclxufTtcclxuXHJcbm1vZHVsZS5leHBvcnRzLmdldFF1b3RlID0gZnVuY3Rpb24gKG5hbWUpIHsgXHJcbiAgICB2YXIgaW5kZXggPSByYW5kb21JbnQoMCwzMjQpO1xyXG4gICAgcXVvdGUudGV4dD1hcnJbaW5kZXhdLnRleHQ7XHJcbiAgICBxdW90ZS5hdXRob3I9YXJyW2luZGV4XS5mcm9tO1xyXG4gICAgcmV0dXJuIHF1b3RlO1xyXG59OyJdfQ==",
+    "map": {
+      "version": 3,
+      "sources": [
+        "index.js"
+      ],
+      "names": [
+        "arr",
+        "require",
+        "quote",
+        "randomInt",
+        "min",
+        "max",
+        "Math",
+        "floor",
+        "random",
+        "module",
+        "exports",
+        "getRandomQuote",
+        "index",
+        "text",
+        "getQuote",
+        "name",
+        "author",
+        "from"
+      ],
+      "mappings": ";;AAAA,IAAIA,GAAG,GAAGC,OAAO,CAAC,kBAAD,CAAjB;;AAEA,IAAIC,KAAK,GAAC,EAAV;;AAEA,SAASC,SAAT,CAAmBC,GAAnB,EAAuBC,GAAvB,EACA;AACI,SAAOC,IAAI,CAACC,KAAL,CAAWD,IAAI,CAACE,MAAL,MAAeH,GAAG,GAACD,GAAJ,GAAQ,CAAvB,IAA0BA,GAArC,CAAP;AACH;;AAEDK,MAAM,CAACC,OAAP,CAAeC,cAAf,GAAgC,YAAY;AACxC,MAAIC,KAAK,GAAGT,SAAS,CAAC,CAAD,EAAG,GAAH,CAArB;AACA,SAAOH,GAAG,CAACY,KAAD,CAAH,CAAWC,IAAlB;AACH,CAHD;;AAKAJ,MAAM,CAACC,OAAP,CAAeI,QAAf,GAA0B,UAAUC,IAAV,EAAgB;AACtC,MAAIH,KAAK,GAAGT,SAAS,CAAC,CAAD,EAAG,GAAH,CAArB;AACAD,EAAAA,KAAK,CAACW,IAAN,GAAWb,GAAG,CAACY,KAAD,CAAH,CAAWC,IAAtB;AACAX,EAAAA,KAAK,CAACc,MAAN,GAAahB,GAAG,CAACY,KAAD,CAAH,CAAWK,IAAxB;AACA,SAAOf,KAAP;AACH,CALD",
+      "sourceRoot": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\inspirational-quotes\\",
+      "sourcesContent": [
+        "var arr = require('./data/data.json');\r\n\r\nvar quote={};\r\n\r\nfunction randomInt(min,max)\r\n{\r\n    return Math.floor(Math.random()*(max-min+1)+min);\r\n}\r\n\r\nmodule.exports.getRandomQuote = function () { \r\n    var index = randomInt(0,324);\r\n    return arr[index].text;\r\n};\r\n\r\nmodule.exports.getQuote = function (name) { \r\n    var index = randomInt(0,324);\r\n    quote.text=arr[index].text;\r\n    quote.author=arr[index].from;\r\n    return quote;\r\n};"
+      ]
+    },
+    "sourceType": "script",
+    "mtime": 1626378316781
+  },
+  "{\"assumptions\":{},\"sourceRoot\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\\\\\",\"caller\":{\"name\":\"@babel/node\"},\"configFile\":false,\"cwd\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\",\"filename\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\\\\test.js\",\"targets\":{},\"cloneInputAst\":true,\"babelrc\":false,\"browserslistConfigFile\":false,\"passPerPreset\":false,\"envName\":\"production\",\"root\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\",\"rootMode\":\"root\",\"plugins\":[{\"key\":\"syntax-class-properties\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-numeric-separator\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-logical-assignment-operators\",\"visitor\":{\"_exploded\":{},\"_verified\":{},\"AssignmentExpression\":{\"enter\":[null]}},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-nullish-coalescing-operator\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-optional-chaining\",\"visitor\":{\"_exploded\":true,\"OptionalCallExpression\":{\"enter\":[null]},\"OptionalMemberExpression\":{\"enter\":[null]},\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-json-strings\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-optional-catch-binding\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-async-generators\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-object-rest-spread\",\"visitor\":{},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"transform-modules-commonjs\",\"visitor\":{\"CallExpression\":{\"enter\":[null]},\"Program\":{\"exit\":[null]},\"_exploded\":true,\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-dynamic-import\",\"visitor\":{\"_exploded\":{},\"_verified\":{},\"Program\":{\"enter\":[null]}},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-export-namespace-from\",\"visitor\":{\"_exploded\":{},\"_verified\":{},\"ExportNamedDeclaration\":{\"enter\":[null]}},\"options\":{\"spec\":false,\"useBuiltIns\":false}}],\"presets\":[]}:7.14.5:production": {
+    "metadata": {},
+    "options": {
+      "assumptions": {},
+      "sourceRoot": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\",
+      "caller": {
+        "name": "@babel/node"
+      },
+      "configFile": false,
+      "cwd": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master",
+      "filename": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\test.js",
+      "targets": {},
+      "cloneInputAst": true,
+      "babelrc": false,
+      "browserslistConfigFile": false,
+      "envName": "production",
+      "root": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master",
+      "rootMode": "root",
+      "sourceMaps": "both",
+      "ast": false,
+      "passPerPreset": false,
+      "plugins": [
+        {
+          "key": "syntax-class-properties",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-numeric-separator",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-logical-assignment-operators",
+          "visitor": {
+            "_exploded": {},
+            "_verified": {},
+            "AssignmentExpression": {
+              "enter": [
+                null
+              ]
+            }
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-nullish-coalescing-operator",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-optional-chaining",
+          "visitor": {
+            "_exploded": true,
+            "OptionalCallExpression": {
+              "enter": [
+                null
+              ]
+            },
+            "OptionalMemberExpression": {
+              "enter": [
+                null
+              ]
+            },
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-json-strings",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-optional-catch-binding",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-async-generators",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-object-rest-spread",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "transform-modules-commonjs",
+          "visitor": {
+            "CallExpression": {
+              "enter": [
+                null
+              ]
+            },
+            "Program": {
+              "exit": [
+                null
+              ]
+            },
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-dynamic-import",
+          "visitor": {
+            "_exploded": {},
+            "_verified": {},
+            "Program": {
+              "enter": [
+                null
+              ]
+            }
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-export-namespace-from",
+          "visitor": {
+            "_exploded": {},
+            "_verified": {},
+            "ExportNamedDeclaration": {
+              "enter": [
+                null
+              ]
+            }
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        }
+      ],
+      "presets": [],
+      "parserOpts": {
+        "sourceType": "module",
+        "sourceFileName": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\test.js",
+        "plugins": [
+          "classProperties",
+          "classPrivateProperties",
+          "classPrivateMethods",
+          "numericSeparator",
+          "logicalAssignment",
+          "nullishCoalescingOperator",
+          "jsonStrings",
+          "optionalCatchBinding",
+          "asyncGenerators",
+          "objectRestSpread",
+          "dynamicImport",
+          "exportNamespaceFrom"
+        ]
+      },
+      "generatorOpts": {
+        "filename": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\test.js",
+        "comments": true,
+        "compact": "auto",
+        "sourceMaps": "both",
+        "sourceRoot": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\",
+        "sourceFileName": "test.js"
+      }
+    },
+    "ast": null,
+    "code": "\"use strict\";\n\nconst quote = require('inspirational-quotes');\n\nconsole.log(quote.getQuote());\nconsole.log(quote.getRandomQuote());\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInRlc3QuanMiXSwibmFtZXMiOlsicXVvdGUiLCJyZXF1aXJlIiwiY29uc29sZSIsImxvZyIsImdldFF1b3RlIiwiZ2V0UmFuZG9tUXVvdGUiXSwibWFwcGluZ3MiOiI7O0FBQUEsTUFBTUEsS0FBSyxHQUFHQyxPQUFPLENBQUMsc0JBQUQsQ0FBckI7O0FBRUFDLE9BQU8sQ0FBQ0MsR0FBUixDQUFZSCxLQUFLLENBQUNJLFFBQU4sRUFBWjtBQUVBRixPQUFPLENBQUNDLEdBQVIsQ0FBWUgsS0FBSyxDQUFDSyxjQUFOLEVBQVoiLCJzb3VyY2VSb290IjoiQzpcXFVzZXJzXFxraXJ0aXJhanNpbmhcXERvd25sb2Fkc1xcaW5zcGlyYXRpb25hbC1xdW90ZXMtbWFzdGVyXFxpbnNwaXJhdGlvbmFsLXF1b3Rlcy1tYXN0ZXJcXCIsInNvdXJjZXNDb250ZW50IjpbImNvbnN0IHF1b3RlID0gcmVxdWlyZSgnaW5zcGlyYXRpb25hbC1xdW90ZXMnKTtcblxuY29uc29sZS5sb2cocXVvdGUuZ2V0UXVvdGUoKSk7XG5cbmNvbnNvbGUubG9nKHF1b3RlLmdldFJhbmRvbVF1b3RlKCkpO1xuIl19",
+    "map": {
+      "version": 3,
+      "sources": [
+        "test.js"
+      ],
+      "names": [
+        "quote",
+        "require",
+        "console",
+        "log",
+        "getQuote",
+        "getRandomQuote"
+      ],
+      "mappings": ";;AAAA,MAAMA,KAAK,GAAGC,OAAO,CAAC,sBAAD,CAArB;;AAEAC,OAAO,CAACC,GAAR,CAAYH,KAAK,CAACI,QAAN,EAAZ;AAEAF,OAAO,CAACC,GAAR,CAAYH,KAAK,CAACK,cAAN,EAAZ",
+      "sourceRoot": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\",
+      "sourcesContent": [
+        "const quote = require('inspirational-quotes');\n\nconsole.log(quote.getQuote());\n\nconsole.log(quote.getRandomQuote());\n"
+      ]
+    },
+    "sourceType": "script",
+    "mtime": 1626382328217
+  },
+  "{\"assumptions\":{},\"sourceRoot\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\\\\\",\"caller\":{\"name\":\"@babel/node\"},\"configFile\":false,\"cwd\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\",\"filename\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\\\\index.js\",\"targets\":{},\"cloneInputAst\":true,\"babelrc\":false,\"browserslistConfigFile\":false,\"passPerPreset\":false,\"envName\":\"production\",\"root\":\"C:\\\\Users\\\\kirtirajsinh\\\\Downloads\\\\inspirational-quotes-master\\\\inspirational-quotes-master\",\"rootMode\":\"root\",\"plugins\":[{\"key\":\"syntax-class-properties\",\"visitor\":{\"_exploded\":true,\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-numeric-separator\",\"visitor\":{\"_exploded\":true,\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-logical-assignment-operators\",\"visitor\":{\"_exploded\":{},\"_verified\":{},\"AssignmentExpression\":{\"enter\":[null]}},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-nullish-coalescing-operator\",\"visitor\":{\"_exploded\":true,\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-optional-chaining\",\"visitor\":{\"_exploded\":true,\"OptionalCallExpression\":{\"enter\":[null]},\"OptionalMemberExpression\":{\"enter\":[null]},\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-json-strings\",\"visitor\":{\"_exploded\":true,\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-optional-catch-binding\",\"visitor\":{\"_exploded\":true,\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-async-generators\",\"visitor\":{\"_exploded\":true,\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"syntax-object-rest-spread\",\"visitor\":{\"_exploded\":true,\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"transform-modules-commonjs\",\"visitor\":{\"CallExpression\":{\"enter\":[null]},\"Program\":{\"exit\":[null]},\"_exploded\":true,\"_verified\":true},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-dynamic-import\",\"visitor\":{\"_exploded\":{},\"_verified\":{},\"Program\":{\"enter\":[null]}},\"options\":{\"spec\":false,\"useBuiltIns\":false}},{\"key\":\"proposal-export-namespace-from\",\"visitor\":{\"_exploded\":{},\"_verified\":{},\"ExportNamedDeclaration\":{\"enter\":[null]}},\"options\":{\"spec\":false,\"useBuiltIns\":false}}],\"presets\":[]}:7.14.5:production": {
+    "metadata": {},
+    "options": {
+      "assumptions": {},
+      "sourceRoot": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\",
+      "caller": {
+        "name": "@babel/node"
+      },
+      "configFile": false,
+      "cwd": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master",
+      "filename": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\index.js",
+      "targets": {},
+      "cloneInputAst": true,
+      "babelrc": false,
+      "browserslistConfigFile": false,
+      "envName": "production",
+      "root": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master",
+      "rootMode": "root",
+      "sourceMaps": "both",
+      "ast": false,
+      "passPerPreset": false,
+      "plugins": [
+        {
+          "key": "syntax-class-properties",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-numeric-separator",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-logical-assignment-operators",
+          "visitor": {
+            "_exploded": {},
+            "_verified": {},
+            "AssignmentExpression": {
+              "enter": [
+                null
+              ]
+            }
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-nullish-coalescing-operator",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-optional-chaining",
+          "visitor": {
+            "_exploded": true,
+            "OptionalCallExpression": {
+              "enter": [
+                null
+              ]
+            },
+            "OptionalMemberExpression": {
+              "enter": [
+                null
+              ]
+            },
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-json-strings",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-optional-catch-binding",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-async-generators",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "syntax-object-rest-spread",
+          "visitor": {
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "transform-modules-commonjs",
+          "visitor": {
+            "CallExpression": {
+              "enter": [
+                null
+              ]
+            },
+            "Program": {
+              "exit": [
+                null
+              ]
+            },
+            "_exploded": true,
+            "_verified": true
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-dynamic-import",
+          "visitor": {
+            "_exploded": {},
+            "_verified": {},
+            "Program": {
+              "enter": [
+                null
+              ]
+            }
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        },
+        {
+          "key": "proposal-export-namespace-from",
+          "visitor": {
+            "_exploded": {},
+            "_verified": {},
+            "ExportNamedDeclaration": {
+              "enter": [
+                null
+              ]
+            }
+          },
+          "options": {
+            "spec": false,
+            "useBuiltIns": false
+          }
+        }
+      ],
+      "presets": [],
+      "parserOpts": {
+        "sourceType": "module",
+        "sourceFileName": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\index.js",
+        "plugins": [
+          "classProperties",
+          "classPrivateProperties",
+          "classPrivateMethods",
+          "numericSeparator",
+          "logicalAssignment",
+          "nullishCoalescingOperator",
+          "jsonStrings",
+          "optionalCatchBinding",
+          "asyncGenerators",
+          "objectRestSpread",
+          "dynamicImport",
+          "exportNamespaceFrom"
+        ]
+      },
+      "generatorOpts": {
+        "filename": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\index.js",
+        "comments": true,
+        "compact": "auto",
+        "sourceMaps": "both",
+        "sourceRoot": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\",
+        "sourceFileName": "index.js"
+      }
+    },
+    "ast": null,
+    "code": "\"use strict\";\n\nvar arr = require('./data/data.json');\n\nvar quote = {};\n\nfunction randomInt(min, max) {\n  return Math.floor(Math.random() * (max - min + 1) + min);\n}\n\nmodule.exports.getRandomQuote = function () {\n  var index = randomInt(0, 324);\n  return arr[index].text;\n};\n\nmodule.exports.getQuote = function (name) {\n  var index = randomInt(0, 324);\n  quote.text = arr[index].text;\n  quote.author = arr[index].from;\n  return quote;\n};\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImluZGV4LmpzIl0sIm5hbWVzIjpbImFyciIsInJlcXVpcmUiLCJxdW90ZSIsInJhbmRvbUludCIsIm1pbiIsIm1heCIsIk1hdGgiLCJmbG9vciIsInJhbmRvbSIsIm1vZHVsZSIsImV4cG9ydHMiLCJnZXRSYW5kb21RdW90ZSIsImluZGV4IiwidGV4dCIsImdldFF1b3RlIiwibmFtZSIsImF1dGhvciIsImZyb20iXSwibWFwcGluZ3MiOiI7O0FBQUEsSUFBSUEsR0FBRyxHQUFHQyxPQUFPLENBQUMsa0JBQUQsQ0FBakI7O0FBRUEsSUFBSUMsS0FBSyxHQUFDLEVBQVY7O0FBRUEsU0FBU0MsU0FBVCxDQUFtQkMsR0FBbkIsRUFBdUJDLEdBQXZCLEVBQ0E7QUFDSSxTQUFPQyxJQUFJLENBQUNDLEtBQUwsQ0FBV0QsSUFBSSxDQUFDRSxNQUFMLE1BQWVILEdBQUcsR0FBQ0QsR0FBSixHQUFRLENBQXZCLElBQTBCQSxHQUFyQyxDQUFQO0FBQ0g7O0FBRURLLE1BQU0sQ0FBQ0MsT0FBUCxDQUFlQyxjQUFmLEdBQWdDLFlBQVk7QUFDeEMsTUFBSUMsS0FBSyxHQUFHVCxTQUFTLENBQUMsQ0FBRCxFQUFHLEdBQUgsQ0FBckI7QUFDQSxTQUFPSCxHQUFHLENBQUNZLEtBQUQsQ0FBSCxDQUFXQyxJQUFsQjtBQUNILENBSEQ7O0FBS0FKLE1BQU0sQ0FBQ0MsT0FBUCxDQUFlSSxRQUFmLEdBQTBCLFVBQVVDLElBQVYsRUFBZ0I7QUFDdEMsTUFBSUgsS0FBSyxHQUFHVCxTQUFTLENBQUMsQ0FBRCxFQUFHLEdBQUgsQ0FBckI7QUFDQUQsRUFBQUEsS0FBSyxDQUFDVyxJQUFOLEdBQVdiLEdBQUcsQ0FBQ1ksS0FBRCxDQUFILENBQVdDLElBQXRCO0FBQ0FYLEVBQUFBLEtBQUssQ0FBQ2MsTUFBTixHQUFhaEIsR0FBRyxDQUFDWSxLQUFELENBQUgsQ0FBV0ssSUFBeEI7QUFDQSxTQUFPZixLQUFQO0FBQ0gsQ0FMRCIsInNvdXJjZVJvb3QiOiJDOlxcVXNlcnNcXGtpcnRpcmFqc2luaFxcRG93bmxvYWRzXFxpbnNwaXJhdGlvbmFsLXF1b3Rlcy1tYXN0ZXJcXGluc3BpcmF0aW9uYWwtcXVvdGVzLW1hc3RlclxcIiwic291cmNlc0NvbnRlbnQiOlsidmFyIGFyciA9IHJlcXVpcmUoJy4vZGF0YS9kYXRhLmpzb24nKTtcblxudmFyIHF1b3RlPXt9O1xuXG5mdW5jdGlvbiByYW5kb21JbnQobWluLG1heClcbntcbiAgICByZXR1cm4gTWF0aC5mbG9vcihNYXRoLnJhbmRvbSgpKihtYXgtbWluKzEpK21pbik7XG59XG5cbm1vZHVsZS5leHBvcnRzLmdldFJhbmRvbVF1b3RlID0gZnVuY3Rpb24gKCkgeyBcbiAgICB2YXIgaW5kZXggPSByYW5kb21JbnQoMCwzMjQpO1xuICAgIHJldHVybiBhcnJbaW5kZXhdLnRleHQ7XG59O1xuXG5tb2R1bGUuZXhwb3J0cy5nZXRRdW90ZSA9IGZ1bmN0aW9uIChuYW1lKSB7IFxuICAgIHZhciBpbmRleCA9IHJhbmRvbUludCgwLDMyNCk7XG4gICAgcXVvdGUudGV4dD1hcnJbaW5kZXhdLnRleHQ7XG4gICAgcXVvdGUuYXV0aG9yPWFycltpbmRleF0uZnJvbTtcbiAgICByZXR1cm4gcXVvdGU7XG59OyJdfQ==",
+    "map": {
+      "version": 3,
+      "sources": [
+        "index.js"
+      ],
+      "names": [
+        "arr",
+        "require",
+        "quote",
+        "randomInt",
+        "min",
+        "max",
+        "Math",
+        "floor",
+        "random",
+        "module",
+        "exports",
+        "getRandomQuote",
+        "index",
+        "text",
+        "getQuote",
+        "name",
+        "author",
+        "from"
+      ],
+      "mappings": ";;AAAA,IAAIA,GAAG,GAAGC,OAAO,CAAC,kBAAD,CAAjB;;AAEA,IAAIC,KAAK,GAAC,EAAV;;AAEA,SAASC,SAAT,CAAmBC,GAAnB,EAAuBC,GAAvB,EACA;AACI,SAAOC,IAAI,CAACC,KAAL,CAAWD,IAAI,CAACE,MAAL,MAAeH,GAAG,GAACD,GAAJ,GAAQ,CAAvB,IAA0BA,GAArC,CAAP;AACH;;AAEDK,MAAM,CAACC,OAAP,CAAeC,cAAf,GAAgC,YAAY;AACxC,MAAIC,KAAK,GAAGT,SAAS,CAAC,CAAD,EAAG,GAAH,CAArB;AACA,SAAOH,GAAG,CAACY,KAAD,CAAH,CAAWC,IAAlB;AACH,CAHD;;AAKAJ,MAAM,CAACC,OAAP,CAAeI,QAAf,GAA0B,UAAUC,IAAV,EAAgB;AACtC,MAAIH,KAAK,GAAGT,SAAS,CAAC,CAAD,EAAG,GAAH,CAArB;AACAD,EAAAA,KAAK,CAACW,IAAN,GAAWb,GAAG,CAACY,KAAD,CAAH,CAAWC,IAAtB;AACAX,EAAAA,KAAK,CAACc,MAAN,GAAahB,GAAG,CAACY,KAAD,CAAH,CAAWK,IAAxB;AACA,SAAOf,KAAP;AACH,CALD",
+      "sourceRoot": "C:\\Users\\kirtirajsinh\\Downloads\\inspirational-quotes-master\\inspirational-quotes-master\\",
+      "sourcesContent": [
+        "var arr = require('./data/data.json');\n\nvar quote={};\n\nfunction randomInt(min,max)\n{\n    return Math.floor(Math.random()*(max-min+1)+min);\n}\n\nmodule.exports.getRandomQuote = function () { \n    var index = randomInt(0,324);\n    return arr[index].text;\n};\n\nmodule.exports.getQuote = function (name) { \n    var index = randomInt(0,324);\n    quote.text=arr[index].text;\n    quote.author=arr[index].from;\n    return quote;\n};"
+      ]
+    },
+    "sourceType": "script",
+    "mtime": 1626375757056
+  }
+}
